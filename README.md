@@ -1,4 +1,4 @@
-# Fibonacci-Discrete-Math
+# Fibonacci
 
 Jan 2021
 
